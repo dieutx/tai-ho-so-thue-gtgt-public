@@ -11,6 +11,18 @@ collection and processing workflows.
 
 ---
 
+## Giới thiệu (About)
+
+**taxdoc-framework** — framework Python để **tải và xử lý tờ khai thuế** từ Cổng
+Dịch vụ công (dichvucong).
+
+Đây là bản tham chiếu công khai, rút gọn: kho chứa chỉ minh hoạ kiến trúc
+pipeline (xác thực → thu thập → lưu trữ → xuất danh sách) cùng provider `mock`
+chạy offline để demo và kiểm thử. Bản này **không** kèm tích hợp với hệ thống
+thật, không có endpoint, không có thông tin đăng nhập và không có dữ liệu thật.
+
+---
+
 ## Tổng quan
 
 Framework này minh hoạ cách thiết kế một pipeline automation cho việc thu thập và

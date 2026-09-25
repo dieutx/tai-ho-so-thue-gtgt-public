@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "taxdoc-framework"
 version = "1.0.0"
-description = "A Python automation framework demonstrating scalable document collection and processing workflows."
+description = "Framework Python (bản tham chiếu công khai) để tải và xử lý tờ khai thuế từ Cổng Dịch vụ công (dichvucong)."
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
